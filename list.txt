@@ -1,3 +1,5 @@
 Semmel
 Brot
 Wurst
+Sprite
+Cola
