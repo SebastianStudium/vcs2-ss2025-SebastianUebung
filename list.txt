@@ -9,3 +9,8 @@ Wein
 Teller
 Gabel
 Messer
+Sprite
+Cola
+Kuchen
+Kekse
+Eis
