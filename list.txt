@@ -4,3 +4,5 @@ Wurst
 Bier
 Kaese
 Gurken
+Vodka
+Wein
