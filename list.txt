@@ -2,6 +2,8 @@ Semmel
 Brot
 Wurst
 Bier
+Kaese
+Gurken
 Vodka
 Wein
 Teller
