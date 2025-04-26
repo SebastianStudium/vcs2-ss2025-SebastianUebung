@@ -4,3 +4,6 @@ Wurst
 Bier
 Vodka
 Wein
+Teller
+Gabel
+Messer
