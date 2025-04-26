@@ -2,3 +2,5 @@ Semmel
 Brot
 Wurst
 Bier
+Kaese
+Gurken
