@@ -1,4 +1,3 @@
 Semmel
 Brot
 Wurst
-Sprite
