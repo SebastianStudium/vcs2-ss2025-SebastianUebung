@@ -6,3 +6,6 @@ Kaese
 Gurken
 Vodka
 Wein
+Teller
+Gabel
+Messer
