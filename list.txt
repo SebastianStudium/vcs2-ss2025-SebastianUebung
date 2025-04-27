@@ -14,5 +14,6 @@ Cola
 Kuchen
 Kekse
 Eis
+Fanta
 Tische
 Stühle
