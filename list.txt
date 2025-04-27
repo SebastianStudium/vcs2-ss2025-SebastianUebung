@@ -18,4 +18,7 @@ Fanta
 Tische
 Stühle
 Salad
+<<<<<<< HEAD
 Haus
+=======
+>>>>>>> 086632e7c9d524c9c1526e193eb3e8ec8a46195b
