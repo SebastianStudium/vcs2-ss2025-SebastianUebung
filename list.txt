@@ -15,3 +15,5 @@ Kuchen
 Kekse
 Eis
 Fanta
+Tische
+Stühle
