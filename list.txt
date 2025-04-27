@@ -17,3 +17,5 @@ Eis
 Fanta
 Tische
 Stühle
+Salad
+Haus
